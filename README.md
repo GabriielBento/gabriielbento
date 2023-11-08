@@ -35,7 +35,7 @@
 
 ## 💻 All languages and tools
 
-Among my self-taught studies within Youtube, immersions of schools such as Alura and rocketseat, CRUD courses, even experience within the company that I work with backend and college that I study.
+Between my self-taught studies within YouTube, immersions in courses on the Udemy platform, and my faculty of Analysis and System Development along with course schools with Alura.
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=264CE4)
