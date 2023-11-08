@@ -15,10 +15,23 @@
 |  Interpessoalidade|  Elaborar apresentações   |
 |  Empatia          |  Dominio no pacote office |
 
-## ⚡ Github stats
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabriielBento&theme=transparent&bg_color=0001&border_color=F0F0F0&show_icons=true&icon_color=0BE6E6&title_color=0BE6E6&text_color=0BE6E6)
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AninhaPardini&theme=transparent&card_width=430&currStreakNum=FD7999&stroke=FD7999&fire=FD7999&sideNums=FD7999&ring=FD7999&currStreakLabel=FD7999&dates=EBCBDF&sideLabels=FD7999)](https://git.io/streak-stats) -->
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriielbento&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
+</picture>
+</div>
 
 ## 💻 All languages and tools
 
