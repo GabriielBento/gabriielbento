@@ -1,3 +1,8 @@
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+GabriielBento!;" />
+</h1>
+
 ### ⭐ Soft skills
 
 |    Soft skills    |        Liderança          |
@@ -13,7 +18,6 @@
 ## ⚡ Github stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabriielBento&theme=transparent&bg_color=0001&border_color=F0F0F0&show_icons=true&icon_color=0BE6E6&title_color=0BE6E6&text_color=0BE6E6)
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabriielBento&layout=compact&bg_color=0001&border_color=FFF&title_color=0BE6E6&text_color=FFF)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AninhaPardini&theme=transparent&card_width=430&currStreakNum=FD7999&stroke=FD7999&fire=FD7999&sideNums=FD7999&ring=FD7999&currStreakLabel=FD7999&dates=EBCBDF&sideLabels=FD7999)](https://git.io/streak-stats) -->
 
 ## 💻 All languages and tools
@@ -33,3 +37,11 @@ Among my self-taught studies within Youtube, immersions of schools such as Alura
 ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
 
+##
+
+</picture>
+</div>
+<br>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
